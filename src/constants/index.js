@@ -105,8 +105,8 @@ const techStack = [
     items: ["React.js", "Next.js", "TypeScript"],
   },
   {
-    category: "Mobile",
-    items: ["React Native", "Expo"],
+    category: "Languages",
+    items: ["C/C++", "Rust", "Java", "Python"],
   },
   {
     category: "Styling",
@@ -114,15 +114,15 @@ const techStack = [
   },
   {
     category: "Backend",
-    items: ["Node.js", "Express", "NestJS", "Hono"],
+    items: ["Node.js", "FastAPI", "NestJS", "Hono"],
   },
   {
     category: "Database",
-    items: ["MongoDB", "PostgreSQL"],
+    items: ["MuSQL", "PostgreSQL"],
   },
   {
     category: "Dev Tools",
-    items: ["Git", "GitHub", "Docker"],
+    items: ["Git", "GitHub"],
   },
 ];
 
